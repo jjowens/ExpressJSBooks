@@ -1,0 +1,22 @@
+{
+  "name": "expressjsbooks",
+  "version": "1.0.0",
+  "description": "API project. It uses Express.js to list books and search through authors and genres from a JSON file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjowens/ExpressJSBooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjowens/ExpressJSBooks/issues"
+  },
+  "homepage": "https://github.com/jjowens/ExpressJSBooks#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

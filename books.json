@@ -1,0 +1,814 @@
+{
+    "Books": [
+      {
+        "bookid": 1,
+        "title": "Misery",
+        "authors": [
+          {
+            "authorid": 1,
+            "firstname": "Stephen",
+            "lastname": "King",
+            "fullname": "Stephen King"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 1,
+            "genrename": "horror"
+          },
+          {
+            "generid": 4,
+            "genrename": "crime"
+          }
+        ]
+      },
+      {
+        "bookid": 2,
+        "title": "Pet Semetary",
+        "authors": [
+          {
+            "authorid": 1,
+            "firstname": "Stephen",
+            "lastname": "King",
+            "fullname": "Stephen King"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 1,
+            "genrename": "horror"
+          },
+          {
+            "generid": 4,
+            "genrename": "crime"
+          }
+        ]
+      },
+      {
+        "bookid": 3,
+        "title": "IT",
+        "authors": [
+          {
+            "authorid": 1,
+            "firstname": "Stephen",
+            "lastname": "King",
+            "fullname": "Stephen King"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 1,
+            "genrename": "horror"
+          }
+        ]
+      },
+      {
+        "bookid": 4,
+        "title": "Salems'Lot",
+        "authors": [
+          {
+            "authorid": 1,
+            "firstname": "Stephen",
+            "lastname": "King",
+            "fullname": "Stephen King"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 1,
+            "genrename": "horror"
+          }
+        ]
+      },
+      {
+        "bookid": 5,
+        "title": "To Kill A Mockingbird",
+        "authors": [
+          {
+            "authorid": 2,
+            "firstname": "Harper",
+            "lastname": "Lee",
+            "fullname": "Harper Lee"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 9,
+            "genrename": "drama"
+          },
+          {
+            "generid": 10,
+            "genrename": "racism"
+          }
+        ]
+      },
+      {
+        "bookid": 6,
+        "title": "The Book Thief",
+        "authors": [
+          {
+            "authorid": 3,
+            "firstname": "Markus",
+            "lastname": "Zusak",
+            "fullname": "Markus Zusak"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 11,
+            "genrename": "war"
+          }
+        ]
+      },
+      {
+        "bookid": 7,
+        "title": "Animal Farm",
+        "authors": [
+          {
+            "authorid": 4,
+            "firstname": "George",
+            "lastname": "Orwell",
+            "fullname": "George Orwell"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 5,
+            "genrename": "fantasy"
+          }
+        ]
+      },
+      {
+        "bookid": 8,
+        "title": "The Fault In Our Stars",
+        "authors": [
+          {
+            "authorid": 5,
+            "firstname": "John",
+            "lastname": "Green",
+            "fullname": "John Green"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 12,
+            "genrename": "young adult"
+          }
+        ]
+      },
+      {
+        "bookid": 9,
+        "title": "Blackbirds",
+        "authors": [
+          {
+            "authorid": 6,
+            "firstname": "Chuck",
+            "lastname": "Wendig",
+            "fullname": "Chuck Wendig"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 12,
+            "genrename": "young adult"
+          },
+          {
+            "generid": 1,
+            "genrename": "horror"
+          }
+        ]
+      },
+      {
+        "bookid": 10,
+        "title": "The Loney",
+        "authors": [
+          {
+            "authorid": 7,
+            "firstname": "Andrew",
+            "lastname": "Lincoln Davies",
+            "fullname": "Andrew Lincoln Davies"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 1,
+            "genrename": "horror"
+          },
+          {
+            "generid": 13,
+            "genrename": "mystery"
+          }
+        ]
+      },
+      {
+        "bookid": 11,
+        "title": "Devil's Day",
+        "authors": [
+          {
+            "authorid": 7,
+            "firstname": "Andrew",
+            "lastname": "Lincoln Davies",
+            "fullname": "Andrew Lincoln Davies"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 1,
+            "genrename": "horror"
+          }
+        ]
+      },
+      {
+        "bookid": 12,
+        "title": "Blue Blazes",
+        "authors": [
+          {
+            "authorid": 6,
+            "firstname": "Chuck",
+            "lastname": "Wendig",
+            "fullname": "Chuck Wendig"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 1,
+            "genrename": "horror"
+          }
+        ]
+      },
+      {
+        "bookid": 13,
+        "title": "Stormfront",
+        "authors": [
+          {
+            "authorid": 8,
+            "firstname": "Jim",
+            "lastname": "Butcher",
+            "fullname": "Jim Butcher"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 1,
+            "genrename": "horror"
+          },
+          {
+            "generid": 5,
+            "genrename": "fantasy"
+          }
+        ]
+      },
+      {
+        "bookid": 14,
+        "title": "The Forever War",
+        "authors": [
+          {
+            "authorid": 9,
+            "firstname": "Joe",
+            "lastname": "Haldeman",
+            "fullname": "Joe Haldeman"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          },
+          {
+            "generid": 2,
+            "genrename": "sci-fi"
+          }
+        ]
+      },
+      {
+        "bookid": 15,
+        "title": "The Prime of Miss Jean Brodie",
+        "authors": [
+          {
+            "authorid": 10,
+            "firstname": "Muriel",
+            "lastname": "Spark",
+            "fullname": "Muriel Spark"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 16,
+        "title": "Sleepyhead",
+        "authors": [
+          {
+            "authorid": 11,
+            "firstname": "Mark",
+            "lastname": "Billingham",
+            "fullname": "Mark Billingham"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 4,
+            "genrename": "crime"
+          }
+        ]
+      },
+      {
+        "bookid": 17,
+        "title": "Joyland",
+        "authors": [
+          {
+            "authorid": 1,
+            "firstname": "Stephen",
+            "lastname": "King",
+            "fullname": "Stephen King"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 4,
+            "genrename": "crime"
+          },
+          {
+            "generid": 1,
+            "genrename": "horror"
+          }
+        ]
+      },
+      {
+        "bookid": 18,
+        "title": "Buddha Da",
+        "authors": [
+          {
+            "authorid": 12,
+            "firstname": "Anne",
+            "lastname": "Donovan",
+            "fullname": "Anne Donovan"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 19,
+        "title": "The Thursday Murder Club",
+        "authors": [
+          {
+            "authorid": 13,
+            "firstname": "Richard",
+            "lastname": "Osman",
+            "fullname": "Richard Osman"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 4,
+            "genrename": "crime"
+          }
+        ]
+      },
+      {
+        "bookid": 20,
+        "title": "The Essex Snake",
+        "authors": [
+          {
+            "authorid": 14,
+            "firstname": "Sarah",
+            "lastname": "Perry",
+            "fullname": "Sarah Perry"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 21,
+        "title": "The Castaways",
+        "authors": [
+          {
+            "authorid": 15,
+            "firstname": "Lucy",
+            "lastname": "Clarke",
+            "fullname": "Lucy Clarke"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 22,
+        "title": "The Appeal",
+        "authors": [
+          {
+            "authorid": 16,
+            "firstname": "Janice",
+            "lastname": "Hallett",
+            "fullname": "Janice Hallett"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 4,
+            "genrename": "crime"
+          }
+        ]
+      },
+      {
+        "bookid": 23,
+        "title": "Where The Crawdads Sing",
+        "authors": [
+          {
+            "authorid": 17,
+            "firstname": "Delia",
+            "lastname": "Owens",
+            "fullname": "Delia Owens"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 24,
+        "title": "The Night Gate",
+        "authors": [
+          {
+            "authorid": 18,
+            "firstname": "Peter",
+            "lastname": "May",
+            "fullname": "Peter May"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 14,
+            "genrename": "thriller"
+          }
+        ]
+      },
+      {
+        "bookid": 25,
+        "title": "Shuggie Bain",
+        "authors": [
+          {
+            "authorid": 19,
+            "firstname": "Douglas",
+            "lastname": "Stewart",
+            "fullname": "Douglas Stewart"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 26,
+        "title": "Scoff",
+        "authors": [
+          {
+            "authorid": 20,
+            "firstname": "Pen",
+            "lastname": "Vogler",
+            "fullname": "Pen Vogler"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 15,
+            "genrename": "food and drink"
+          }
+        ]
+      },
+      {
+        "bookid": 27,
+        "title": "Small Pleasures",
+        "authors": [
+          {
+            "authorid": 21,
+            "firstname": "Clare",
+            "lastname": "Chambers",
+            "fullname": "Clare Chambers"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 28,
+        "title": "Troy",
+        "authors": [
+          {
+            "authorid": 1,
+            "firstname": "Stephen",
+            "lastname": "King",
+            "fullname": "Stephen King"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 29,
+        "title": "Hamnet",
+        "authors": [
+          {
+            "authorid": 22,
+            "firstname": "Maggie",
+            "lastname": "O'Farrell",
+            "fullname": "Maggie O'Farrell"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      },
+      {
+        "bookid": 30,
+        "title": "Six Of Crows",
+        "authors": [
+          {
+            "authorid": 23,
+            "firstname": "Leigh",
+            "lastname": "Bardugo",
+            "fullname": "Leigh Bardugo"
+          }
+        ],
+        "genres": [
+          {
+            "generid": 7,
+            "genrename": "fiction"
+          }
+        ]
+      }
+    ],
+    "Genres": [
+      {
+        "generid": 8,
+        "genrename": "business"
+      },
+      {
+        "generid": 4,
+        "genrename": "crime"
+      },
+      {
+        "generid": 9,
+        "genrename": "drama"
+      },
+      {
+        "generid": 5,
+        "genrename": "fantasy"
+      },
+      {
+        "generid": 7,
+        "genrename": "fiction"
+      },
+      {
+        "generid": 15,
+        "genrename": "food and drink"
+      },
+      {
+        "generid": 1,
+        "genrename": "horror"
+      },
+      {
+        "generid": 13,
+        "genrename": "mystery"
+      },
+      {
+        "generid": 6,
+        "genrename": "nonfiction"
+      },
+      {
+        "generid": 10,
+        "genrename": "racism"
+      },
+      {
+        "generid": 2,
+        "genrename": "sci-fi"
+      },
+      {
+        "generid": 14,
+        "genrename": "thriller"
+      },
+      {
+        "generid": 11,
+        "genrename": "war"
+      },
+      {
+        "generid": 3,
+        "genrename": "western"
+      },
+      {
+        "generid": 12,
+        "genrename": "young adult"
+      }
+    ],
+    "Authors": [
+      {
+        "authorid": 23,
+        "firstname": "Leigh",
+        "lastname": "Bardugo",
+        "fullname": "Leigh Bardugo"
+      },
+      {
+        "authorid": 11,
+        "firstname": "Mark",
+        "lastname": "Billingham",
+        "fullname": "Mark Billingham"
+      },
+      {
+        "authorid": 8,
+        "firstname": "Jim",
+        "lastname": "Butcher",
+        "fullname": "Jim Butcher"
+      },
+      {
+        "authorid": 21,
+        "firstname": "Clare",
+        "lastname": "Chambers",
+        "fullname": "Clare Chambers"
+      },
+      {
+        "authorid": 15,
+        "firstname": "Lucy",
+        "lastname": "Clarke",
+        "fullname": "Lucy Clarke"
+      },
+      {
+        "authorid": 12,
+        "firstname": "Anne",
+        "lastname": "Donovan",
+        "fullname": "Anne Donovan"
+      },
+      {
+        "authorid": 5,
+        "firstname": "John",
+        "lastname": "Green",
+        "fullname": "John Green"
+      },
+      {
+        "authorid": 9,
+        "firstname": "Joe",
+        "lastname": "Haldeman",
+        "fullname": "Joe Haldeman"
+      },
+      {
+        "authorid": 16,
+        "firstname": "Janice",
+        "lastname": "Hallett",
+        "fullname": "Janice Hallett"
+      },
+      {
+        "authorid": 1,
+        "firstname": "Stephen",
+        "lastname": "King",
+        "fullname": "Stephen King"
+      },
+      {
+        "authorid": 2,
+        "firstname": "Harper",
+        "lastname": "Lee",
+        "fullname": "Harper Lee"
+      },
+      {
+        "authorid": 7,
+        "firstname": "Andrew",
+        "lastname": "Lincoln Davies",
+        "fullname": "Andrew Lincoln Davies"
+      },
+      {
+        "authorid": 18,
+        "firstname": "Peter",
+        "lastname": "May",
+        "fullname": "Peter May"
+      },
+      {
+        "authorid": 22,
+        "firstname": "Maggie",
+        "lastname": "O'Farrell",
+        "fullname": "Maggie O'Farrell"
+      },
+      {
+        "authorid": 4,
+        "firstname": "George",
+        "lastname": "Orwell",
+        "fullname": "George Orwell"
+      },
+      {
+        "authorid": 13,
+        "firstname": "Richard",
+        "lastname": "Osman",
+        "fullname": "Richard Osman"
+      },
+      {
+        "authorid": 17,
+        "firstname": "Delia",
+        "lastname": "Owens",
+        "fullname": "Delia Owens"
+      },
+      {
+        "authorid": 14,
+        "firstname": "Sarah",
+        "lastname": "Perry",
+        "fullname": "Sarah Perry"
+      },
+      {
+        "authorid": 10,
+        "firstname": "Muriel",
+        "lastname": "Spark",
+        "fullname": "Muriel Spark"
+      },
+      {
+        "authorid": 19,
+        "firstname": "Douglas",
+        "lastname": "Stewart",
+        "fullname": "Douglas Stewart"
+      },
+      {
+        "authorid": 20,
+        "firstname": "Pen",
+        "lastname": "Vogler",
+        "fullname": "Pen Vogler"
+      },
+      {
+        "authorid": 6,
+        "firstname": "Chuck",
+        "lastname": "Wendig",
+        "fullname": "Chuck Wendig"
+      },
+      {
+        "authorid": 3,
+        "firstname": "Markus",
+        "lastname": "Zusak",
+        "fullname": "Markus Zusak"
+      }
+    ]
+  }
