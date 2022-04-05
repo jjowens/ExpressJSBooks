@@ -21,11 +21,11 @@ http://localhost:3000/genres
 
 Get Books by genre - replace {genre name} with actual genre name
 
-http://localhost:3000/genres/{genre name}
+http://localhost:3000/genres/ {genre name}
 
 Get Books by Author - replace {author name} with actual author name
 
-http://localhost:3000/authors/{author name}
+http://localhost:3000/authors/ {author name}
 
 
 ### Post Method
